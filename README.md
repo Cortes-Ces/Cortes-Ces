@@ -1,7 +1,5 @@
-PREVIEW
-MARKDOWN
-COPY
-Hi 👋 My name is Cesar Cortes
+
+Hi 👋 My name is Cesar A. Cortes
 =============================
 
 Web Developer
