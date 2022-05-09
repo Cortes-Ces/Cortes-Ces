@@ -7,7 +7,7 @@ Web Developer
 
 * 🌍  I'm based in United States
 * ✉️  You can contact me at [Cortesces90@gmail.com](mailto:Cortesces90@gmail.com)
-* 🧠  I'm learning React
+* 🧠  I'm learning React & Python
 * 🤝  I'm open to collaborating on interesting projects
 * ⚡  On my spare time, I am a private chef helper
 
